@@ -1,5 +1,3 @@
-#Project-Report
-#Project-Report
 
 # Intelligent Academic Portfolio & Course Analytics Platform
 
