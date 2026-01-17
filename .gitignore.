@@ -1,0 +1,13 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# Data backups (optional)
+*.bak
+
