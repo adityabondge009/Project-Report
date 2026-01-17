@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Admin Dashboard</h1>
+
+    <div class="stats">
+        <div class="card">
+            <h3>Total Users</h3>
+            <p id="totalUsers">0</p>
+        </div>
+
+        <div class="card">
+            <h3>Total Visits</h3>
+            <p id="totalVisits">0</p>
+        </div>
+
+        <div class="card highlight">
+            <h3>Most Visited Page</h3>
+            <p id="topPage">-</p>
+        </div>
+    </div>
+
+    <h2>Visits Per Page</h2>
+    <canvas id="pageChart"></canvas>
+
+    <h2>Daily Visits</h2>
+    <canvas id="dailyChart"></canvas>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Page</th>
+                <th>Visits</th>
+            </tr>
+        </thead>
+        <tbody id="visitsTable"></tbody>
+    </table>
+    <section>
+	    <h2>📚 Manage Courses</h2>
+	    <input id="courseTitle" placeholder="Course Title">
+	    <input id="courseDesc" placeholder="Description">
+	    <input id="courseYT" placeholder="YouTube Link">
+	    <button onclick="addCourse()">Add Course</button>
+	    <ul id="adminCourseList"></ul>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
+

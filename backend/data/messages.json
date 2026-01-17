@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "id": "80de6a23-8d41-4375-90b0-c446b7e1335d",
+      "userId": "6a3610fe-ced3-4f1e-a0f4-cf35ee61798a",
+      "name": "Aditya Bondge",
+      "email": "adityabondge009@gmail.com",
+      "message": "This is a test mail. To check the function is working correctly.!!!",
+      "createdAt": "2026-01-17T08:54:32.850Z"
+    },
+    {
+      "id": "89a6545c-a51f-46d9-b08f-0cb2d0139225",
+      "userId": "6a3610fe-ced3-4f1e-a0f4-cf35ee61798a",
+      "name": "Kabir Pujari",
+      "email": "trial@gmail.com",
+      "message": "This is again a message for trial.",
+      "createdAt": "2026-01-17T10:08:33.818Z"
+    }
+  ]
+}

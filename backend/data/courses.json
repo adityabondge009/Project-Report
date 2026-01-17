@@ -1,0 +1,101 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Operating Systems",
+      "description": "Processes, threads, memory management, CPU scheduling",
+      "videos": [
+        {
+          "title": "Introduction to Operating Systems",
+          "url": "https://youtu.be/zbh5mwSye3s?si=XPVvNIypFHWxPP4i",
+          "thumbnail": "https://i.ytimg.com/vi/zbh5mwSye3s/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-DoACuAiKAgwIABABGGUgWShYMA8=&rs=AOn4CLCvXGXmsk4iMy1LxbWiMz-sIUBCkA"
+        },
+        {
+          "title": "Operating Systems V2",
+          "url": "https://youtu.be/Sf-kQFDVFOs?si=xF082aqI7x_Ol_sR",
+          "thumbnail": "https://i.ytimg.com/vi/Sf-kQFDVFOs/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGGUgWyhTMA8=&rs=AOn4CLDXHxOGFeACbnqTwVB0pmVkcT9tKA"
+        },
+        {
+          "title": "Operating Systems V3",
+          "url": "https://youtu.be/Aa4Ci2C5jRc?si=Jkf5QbFOYHr9omHj",
+          "thumbnail": "https://i.ytimg.com/vi/Aa4Ci2C5jRc/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGDAgZShyMA8=&rs=AOn4CLD_3zMhneV08Ys332UG8uw4nsQ2VA"
+        },
+        {
+          "title": "Operating Systems V4",
+          "url": "https://youtu.be/Sf-kQFDVFOs?si=NO8NaKw6lkPAgg_S",
+          "thumbnail": "https://i.ytimg.com/vi/Sf-kQFDVFOs/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGGUgWyhTMA8=&rs=AOn4CLDXHxOGFeACbnqTwVB0pmVkcT9tKA"
+        },
+        {
+          "title": "Operating Systems V5",
+          "url": "https://youtu.be/jSk2XZxliBU?si=rRvKdUhVQIJKvObG",
+          "thumbnail": "https://i.ytimg.com/vi/jSk2XZxliBU/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGCwgZChyMA8=&rs=AOn4CLAIsStMP_B0SYmtNyvNWEQb4E9ZDA"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Advanced Database Systems",
+      "description": "PostgreSQL, MongoDB , Joins ",
+      "videos": [
+        {
+          "title": "ADC Session1",
+          "url": "https://youtu.be/sYrzCfPjDuk?si=cBvZF4Ix7nk3yfjD",
+          "thumbnail": "https://i.ytimg.com/vi/sYrzCfPjDuk/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gFihdMA8=&rs=AOn4CLCcornmfCsr3PBw259oKFvSVkjdng"
+        },
+        {
+          "title": "ADC session2",
+          "url": "https://youtu.be/vy-sLmIs7j4?si=_jqEVs9XAJL3wZU5",
+          "thumbnail": "https://i.ytimg.com/vi/vy-sLmIs7j4/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGFIgTShlMA8=&rs=AOn4CLAdI50SDunisEILRK0vhuamgtYzog"
+        },
+        {
+          "title": "ADC session3",
+          "url": "https://youtu.be/sqcLeQM6OLU?si=19H0IXlqCcN0aXr6",
+          "thumbnail": "https://i.ytimg.com/vi/sqcLeQM6OLU/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gFyhcMA8=&rs=AOn4CLDm9fYXuu96KgxxYa-NdgkUWGpW0Q"
+        },
+        {
+          "title": "ADC session4",
+          "url": "https://youtu.be/rNbNpiV7P6U?si=xKLnP5l-brj-Tl3B",
+          "thumbnail": "https://i.ytimg.com/vi/rNbNpiV7P6U/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gEyhdMA8=&rs=AOn4CLBHoguzoLi-URrvdscVJSZkXSoOyA"
+        },
+        {
+          "title": "ADC session5",
+          "url": "https://youtu.be/IRY1IhvcbWM?si=BXHDYdbMmtAPP8PG",
+          "thumbnail": "https://i.ytimg.com/vi/IRY1IhvcbWM/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gMShiMA8=&rs=AOn4CLDlMnt1_yYG5NdX9CJ3j-7FjLrdUQ"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Low-Level Assembly Programming",
+      "description": "Assembly Programing , Functions , Loops ",
+      "videos": [
+        {
+          "title": "LLAP Session1",
+          "url": "https://youtu.be/vLzjnpKY1cA?si=KXyz1LzaVxLpzCQ7",
+          "thumbnail": "https://i.ytimg.com/vi/vLzjnpKY1cA/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGHIgPCg8MA8=&rs=AOn4CLBSxp2FBCxI-WFdfyLqb5vatzGLlQ"
+        },
+        {
+          "title": "LLAP session2",
+          "url": "https://youtu.be/-kkK3pnXQGU?si=J_Ghu9Vt_vsZDxYO",
+          "thumbnail": "https://i.ytimg.com/vi/-kkK3pnXQGU/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLB8GPmvVnjDmCSChgubz_gwiv8J2w"
+        },
+        {
+          "title": "LLAP session3",
+          "url": "https://youtu.be/Lrey9QWC46w?si=COwrYfiX62ZWeviQ",
+          "thumbnail": "https://i.ytimg.com/vi/Lrey9QWC46w/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gFyhfMA8=&rs=AOn4CLBLX4c8NCSR3LXQpnKmbrLT_cCyMw"
+        },
+        {
+          "title": "LLAP session4",
+          "url": "https://youtu.be/YiXTkTh7LB0?si=gA8C37_aiwBo-69p",
+          "thumbnail": "https://i.ytimg.com/vi/YiXTkTh7LB0/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gFyhcMA8=&rs=AOn4CLCc_ZmvY8o2wbXuJfCKe7Lc39n0mg"
+        },
+        {
+          "title": "LLAP session5",
+          "url": "https://youtu.be/IFwIR5eWLqw?si=a1EPIIetKTUODe4L",
+          "thumbnail": "https://i.ytimg.com/vi/IFwIR5eWLqw/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gFihhMA8=&rs=AOn4CLAPsPDUj9z8MjJJdTCrCXArGI60nQ"
+        }
+      ]
+    }
+  ]
+}
+

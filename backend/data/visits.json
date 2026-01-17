@@ -1,0 +1,84 @@
+{
+  "totalVisits": 2205,
+  "perPage": {
+    "/": 47,
+    "/style.css": 352,
+    "/script.js": 350,
+    "/api/admin/stats": 18,
+    "/api/professor": 308,
+    "/images/profile.jpg": 215,
+    "/api/works": 3,
+    "/api/courses": 74,
+    "/api/slides": 66,
+    "/api/home": 152,
+    "/favicon.ico": 7,
+    "/works.html": 66,
+    "/courses.html": 85,
+    "/contact.html": 44,
+    "/index.html": 99,
+    "/admin.html": 11,
+    "/.well-known/appspecific/com.chrome.devtools.json": 12,
+    "/api/admin/courses": 14,
+    "/api/courses/view/1": 6,
+    "/help.html": 4,
+    "/images/os1.jpg": 7,
+    "/images/os2.jpg": 7,
+    "/api/courses/view/Database%20Management%20Systems": 1,
+    "/api/track-page": 125,
+    "index.html": 69,
+    "courses.html": 21,
+    "/api/user/register": 4,
+    "works.html": 18,
+    "contact.html": 16,
+    "/api/contact": 2,
+    "admin.html": 1,
+    "/api/courses/view/Operating%20Systems": 1
+  },
+  "perDay": {
+    "2026-01-14": 71,
+    "2026-01-15": 666,
+    "2026-01-16": 374,
+    "2026-01-17": 969
+  },
+  "contentViews": {
+    "works": {
+      "total": 3
+    },
+    "courses": {
+      "total": 15,
+      "byId": {
+        "1": 6,
+        "Database Management Systems": 1,
+        "Operating Systems": 1
+      }
+    },
+    "slides": {
+      "total": 29
+    }
+  },
+  "userContent": {
+    "aad623e6-eee9-476e-98a8-d93390012b67": {
+      "courses": [
+        "1",
+        1,
+        "Database Management Systems"
+      ],
+      "slides": [
+        "Lecture 1: Introduction"
+      ],
+      "works": []
+    },
+    "anonymous": {
+      "slides": [
+        "Lecture 1: Introduction",
+        "slide-0",
+        "slide-1",
+        "slide-2"
+      ],
+      "courses": [
+        "Operating Systems"
+      ],
+      "works": []
+    }
+  }
+}

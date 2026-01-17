@@ -1,0 +1,23 @@
+{
+  "education": [
+    {
+      "title": "Ph.D. in Computer Science",
+      "institution": "XYZ University",
+      "year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Professor",
+      "organization": "ABC Institute",
+      "duration": "2012 - Present"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Best Researcher Award",
+      "year": "2018"
+    }
+  ]
+}
+
